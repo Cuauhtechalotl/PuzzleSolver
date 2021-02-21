@@ -13,4 +13,4 @@ At the moment, the whole task is done running a jupyter notebook.
 It's refering to an an "img"-directory, where the example-JPGs are loaded from "img/teile_second". After first evaluations, images get colored and saved in directories "img/Error", "img/Normal", "img/Rand". At the moment, that's basically for visualization and seeing if evaluations were sucessfull.
 This time-consuming process of loading and saving files will be excluded from the final version when it comes to time-optimization.
 
-## the directory "img/teile_second" must exist and contain the reffered images
+**the directory "img/teile_second" must exist and contain the reffered images**
